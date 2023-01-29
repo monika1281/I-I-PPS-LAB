@@ -21,7 +21,7 @@ void main(){
 			printf("Division is %f",a/b);
 			break;	
 		case 5:
-			printf("Quotient is %d",(int)a%(int)b);
+			printf("Reminder is %d",(int)a%(int)b);
 			break;	
 	}
 	return 0;
@@ -31,5 +31,4 @@ output:
 Enter the values of a and b
 4 5
 enter 1 for division 2 for subtraction 3 for multiplication 4 for division 5 for mod
-5
-Quotient is 4
+Remainder is 4
