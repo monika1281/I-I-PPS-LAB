@@ -10,7 +10,7 @@ d=(float)a/b;
 printf("%f",d);
 return 0;
 }
------------------------
+--------------------------
 output:
 enter the values of a and b
 6 4
