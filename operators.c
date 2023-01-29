@@ -26,7 +26,7 @@ printf("Right shift of a by 1 is %d\n",a>>1);
 
 return 0;
 }
--------------------------------------------
+---------------------------------------------
 0utput:
 Enter the values of a and b
 4 2
