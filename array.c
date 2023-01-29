@@ -40,3 +40,11 @@ printf("avg is %f",avg);
 
 return 0;
 }
+--------------------------------------
+output:
+enter array size:3
+enter array elements: 2 4 5
+max is 5
+min is 2
+sum of array elements is 11
+avg is 3.666667
