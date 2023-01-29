@@ -2,16 +2,17 @@
 int main(){
 int a,b;
 float c,d;
-printf("enter the numbers a and b");
+printf("enter the values of a and b");
 scanf("%d%d",&a,&b);
 c=a/b;
 printf("%f\n",c);
-
-printf("enter the number ");
-scanf("%d",&num);
-printf("the character is %c",num);
-
+d=(float)a/b;
+printf("%f",d);
 return 0;
 }
 -----------------------
 output:
+enter the values of a and b
+6 4
+1.000000
+1.500000
