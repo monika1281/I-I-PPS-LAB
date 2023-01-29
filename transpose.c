@@ -20,7 +20,7 @@ for(j=0;j<n;j++){
  }
  void transpose(int a[m][n],int m,int n){
  int i,j;
- int b[i][j];
+ int b[n][m];
  for(i=0;i<m;i++)
  {
  for(j=0;j<n;j++)
