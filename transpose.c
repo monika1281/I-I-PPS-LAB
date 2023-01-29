@@ -41,5 +41,12 @@ for(j=0;j<n;j++){
   }
 ----------------------------------------------
 Output:
+enter size of a matrix:
+where m=row size
+n=column size 2 2
+enter matA elements : 1 2 3 4
+transpose of given mat is
+    1    3
+    2    4
 
  
