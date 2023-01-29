@@ -40,7 +40,7 @@ printf("avg is %f",avg);
 
 return 0;
 }
---------------------------------------
+------------------------------------------
 output:
 enter array size:3
 enter array elements: 2 4 5
