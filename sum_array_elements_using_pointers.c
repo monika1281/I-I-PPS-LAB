@@ -11,7 +11,7 @@ void main(){
 	}
 	ptr=&a[0];
 	for(i=0;i<n;i++){
-  sum=sum+*ptr;
+        sum=sum+*ptr;
 		ptr=ptr+1;
 	}
 	printf("sum of array elements using pointers is %d",sum);
