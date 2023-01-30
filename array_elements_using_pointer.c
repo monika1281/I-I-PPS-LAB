@@ -8,7 +8,7 @@ void main(){
 	for(i=0;i<n;i++){
 		scanf("%d",&a[i]);
 	}
-	ptr=&a;
+	ptr=&a[0];
 	printf("The values of the array using pointers are:\n");
 	for(i=0;i<n;i++){
 		printf("%5d",*ptr);
