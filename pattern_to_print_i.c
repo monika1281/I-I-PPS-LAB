@@ -16,6 +16,7 @@ for(i=1;i<=rows;i++)
 
     return 0;
 }
+------------------------------
 Output:-
 Enter the number of rows:3
 1 
