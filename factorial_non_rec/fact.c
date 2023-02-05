@@ -16,5 +16,4 @@ void fact(int n){
  }
  printf(" Factorial is %d",fact);
  return ;
- 
- }
+}
