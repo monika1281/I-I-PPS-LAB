@@ -34,3 +34,8 @@ void selection_sort(int size,int a[size]){
 	}
 	
 }
+-----------------------------------------------------------------
+output:-
+enter size of the array 5
+enter array elements 56 43 72 12 76
+elements after sorting:   12   43   56   72   76
