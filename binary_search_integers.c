@@ -11,25 +11,7 @@ int main(){
  {
  scanf("%d",&a[i]);
  }
-int j;
- int temp;
- for(i=0;i<size-1;i++)
- {
- for(j=0;j<size-i-1;j++)
- {
- if(a[j]>a[j+1])
- {
- temp=a[j];
- a[j]=a[j+1];
- a[j+1]=temp;
- }
- }
- }
- printf("elements after sorting:");
- for(i=0;i<size;i++)
- {
- printf("%5d",a[i]);
- }
+
  int key;
  printf("\nenter key element:");
  scanf("%d",&key);
