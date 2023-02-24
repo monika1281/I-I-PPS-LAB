@@ -5,11 +5,11 @@ int main()
 	char arr1[55],arr2[55],arr3[55];
 	int i=0,j=0,k=0,l=0;
 	int x,x1,x2,x3;
-	printf("Enter First String:");
+	printf("Enter the string:");
 	gets(arr1);
-	printf("Enter Second String:");
+	printf("Enter the substring:");
 	gets(arr2);
-	printf("Enter the position where 2nd string has to be inseterd:");
+	printf("Enter the position where substring has to be inseterd:");
 	scanf("%d",&k);
 	
 	j=strlen(arr1);
@@ -37,7 +37,7 @@ int main()
 }
 ---------------------------------------------
 output:-
-Enter First String:hey micro office
-Enter Second String:soft
-Enter the position where 2nd string has to be inseterd:9
+Enter the string:hey micro office
+Enter the substring:soft
+Enter the position where substring has to be inseterd:9
 hey microsoft office
